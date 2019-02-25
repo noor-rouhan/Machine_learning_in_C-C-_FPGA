@@ -1,0 +1,7 @@
+#!/bin/bash
+
+clear
+
+g++ Matrix_Multiply.cpp
+
+./a.out
