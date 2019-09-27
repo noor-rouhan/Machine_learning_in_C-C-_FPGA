@@ -1,8 +1,8 @@
 /*****************************\
 > MNIST Access library
 > Version: 1.0
-> Author: Saif Ahmed Quarishi
-> Data: 24.MAY.2018
+> Author: Saif Ahmed Quarishi, Rouhan Noor
+> Data: 24.MAY.2019
 \*****************************/
 
 #include <iostream>
