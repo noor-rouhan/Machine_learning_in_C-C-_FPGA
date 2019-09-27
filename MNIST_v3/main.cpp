@@ -1,8 +1,8 @@
 /*****************************\
 > MNIST Test Program
 > Version: 1.0
-> Author: Saif Ahmed Quarishi
-> Data: 06.MAR.2018
+> Author: Rouhan Noor
+> Data: 06.MAR.2019
 \*****************************/
 
 #include <iostream>
